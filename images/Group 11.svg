@@ -1,0 +1,15 @@
+<svg width="48.000000" height="48.000000" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip17_6">
+			<rect id="gg:facebook" width="20.000000" height="20.000000" transform="translate(14.000000 14.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="gg:facebook" width="20.000000" height="20.000000" transform="translate(14.000000 14.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip17_6)">
+		<path id="Vector" d="M21.66 31.91L24.99 31.91L24.99 25.24L28 25.24L28.33 21.92L24.99 21.92L24.99 20.25C24.99 20.02 25.08 19.81 25.24 19.66C25.39 19.5 25.61 19.41 25.83 19.41L28.33 19.41L28.33 16.08L25.83 16.08C24.72 16.08 23.66 16.52 22.88 17.3C22.1 18.08 21.66 19.14 21.66 20.25L21.66 21.92L19.99 21.92L19.66 25.24L21.66 25.24L21.66 31.91Z" fill="#1E1E1E" fill-opacity="0.750000" fill-rule="nonzero"/>
+	</g>
+	<circle id="Ellipse 2" cx="24.000000" cy="24.000000" r="23.500000" stroke="#1E1E1E" stroke-opacity="0.500000" stroke-width="1.000000"/>
+</svg>
